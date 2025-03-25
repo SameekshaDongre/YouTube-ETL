@@ -35,7 +35,5 @@ This project focuses on building an ETL (Extract, Transform, Load) pipeline to f
 🔗 Colab Notebook Link
 https://colab.research.google.com/drive/1-L-8JQFPc309eioCi9Ta-J0kiFbp0O2T?usp=sharing
 
-🔗 YouTube API Documentation
-https://developers.google.com/youtube/v3/getting-started
 
 
